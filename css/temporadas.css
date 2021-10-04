@@ -1,0 +1,25 @@
+/**************************
+TABLE
+***************************/
+
+/* specificity = 1 */
+table {
+  width: 100%;
+}
+
+/* specificity = 1 */
+th, td {
+  margin-right: 1em;
+  text-align: left;
+}
+
+/* specificity = 1 */
+th {
+  background-color: rgb(37, 9, 20, 0.8);
+  color: rgb(247, 210, 227);
+}
+
+/* specificity = 1 */
+td {
+  background-color: rgb(255, 255, 255, 0.4);
+}
